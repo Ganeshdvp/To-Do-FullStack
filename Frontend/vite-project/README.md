@@ -33,6 +33,23 @@
 # Task-2
 - Created Components folder and created NavBar.jsx and HomePage.jsx files
 - Installed React-Router-Dom and configure
+- create Main.jsx file
+- create Form.jsx file
+- created SelectDropDown.jsx file
+- create AllTasks.jsx file 
+
+# Task-3
+- Install Axios
+- installed tenstack query and setup
+- fetch data for /all-tasks
+- POST Api call /add-task
+- created BadgeUI.jsx file for badges
+- created EditForm.jsx file for Edit task
+- PATCH Api call /update-task/:id
+- DELETE Api call /delete-task/:id
+- Implemented ShimmerUI, loading, errors stats
+- Implemented Toast notifications
+
 
 
 
@@ -54,3 +71,12 @@
         })
 
 - npm install nodemon
+- Install mongodb and setup
+- create config>database.js file
+- create models>tasks.js file
+
+# Task-2
+- Install express.json()
+- Install cors()
+- Implemented API logics
+- created .env file for sensitive data.
